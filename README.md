@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a developer passionate about building applications and exploring new technologies. 
+This is where I share my projects and experiments.  
+
 <!--
 **hieunx08/hieunx08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
